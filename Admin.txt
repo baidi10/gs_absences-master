@@ -1,0 +1,6 @@
+Admin : 
+admin@admin.com
+mdp : password
+admin :oussama admin 
+oussamabaidi10@gmail.com
+mdp: 12345678
